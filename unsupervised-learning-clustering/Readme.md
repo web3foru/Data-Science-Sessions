@@ -9,6 +9,6 @@ Agenda
 5. Caso practico  (Mall Customer Segmentation Data) https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python
 
 
-
 Sabado 29 de octubre 12 pm
-
+By: Jose Alberto Arango Sánchez 
+@josearangos
